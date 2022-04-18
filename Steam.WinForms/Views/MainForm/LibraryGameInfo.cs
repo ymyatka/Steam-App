@@ -40,7 +40,7 @@ namespace Steam.WinForms.Views.MainForm
 
             switch (game.GameName)
             {
-                case "World of Warcraft":
+                case "World of Warcra":
                     Process.Start("");
                     break;
                 case "Diablo III":
